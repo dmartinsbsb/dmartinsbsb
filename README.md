@@ -57,5 +57,7 @@ Te convido a conhecer meus projetos e contribuições, que refletem como a uniã
 
 ---
 
-![GitHub Contributions](https://github-readme-stats.vercel.app/api/wakatime?username=dmartinsbsb&hide_title=true&hide_border=true&langs_count=5&layout=compact)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/dmartinsbsb/dmartinsbsb/output/snake.svg?colors=0000FF,0000AA,0055FF,0033CC" alt="Snake animation" width="200" />
+</div>
 
