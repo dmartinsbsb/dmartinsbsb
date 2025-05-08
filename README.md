@@ -25,23 +25,6 @@ Aqui você vai encontrar projetos e contribuições que refletem a minha visão 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dmartinsbsb&show_icons=true&count_private=true&hide=prs&theme=github_dark)
 
----
-<table>
-  <tr>
-    <td colspan="2" align="center"><h3>💡 Coding habits and activity</h3></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><p>This plugin displays coding habits based on recent activity, such as active hours and languages recently used.</p></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <details open><summary>Recent activity charts</summary>
-        <img src="https://github.com/dmartinsbsb/dmartinsbsb/blob/main/path/to/generated/metrics.plugin.habits.charts.svg" alt="Activity Chart" />
-      </details>
-    </td>
-  </tr>
-</table>
-
 
 ---
 ### Minhas Contribuições
