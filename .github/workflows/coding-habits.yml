@@ -1,0 +1,33 @@
+name: coding-habits-metrics  # Nome do Workflow
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Executa a cada 24 horas
+  push:
+    branches:
+      - main  # Quando houver push na branch principal
+  pull_request:
+    branches:
+      - main  # Quando houver pull request na branch principal
+
+jobs:
+  generate-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Generate Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.habits.charts.svg  # Nome do arquivo de saída (gráfico)
+          token: ${{ secrets.GITHUB_TOKEN }}  # Token do GitHub
+          plugin_habits: 'yes'  # Habilita o plugin de hábitos
+          plugin_habits_charts: 'yes'  # Exibe gráficos de atividade
+          config_timezone: 'Europe/Paris'  # Define o fuso horário
+
+      - name: Upload Metrics Image
+        uses: actions/upload-artifact@v2
+        with:
+          name: activity-stats
+          path: metrics.plugin.habits.charts.svg  # Caminho do arquivo gerado
