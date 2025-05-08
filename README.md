@@ -56,8 +56,6 @@ Te convido a conhecer meus projetos e contribuições, que refletem como a uniã
 </div>
 
 ---
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dmartinsbsb/dmartinsbsb/output/snake.svg?colors=0000FF,0000AA,0055FF,0033CC" alt="Snake animation" width="200" />
+  <img src="https://raw.githubusercontent.com/dmartinsbsb/dmartinsbsb/output/snake.svg?colors=0000FF,0000AA,0055FF,0033CC" alt="Snake animation" />
 </div>
-
