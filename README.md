@@ -2,7 +2,7 @@
 
 # Olá, eu sou o Douglas Martins! 👋
 
-📍 **Brasília, Brasil** | 💾 **Futuro Analista de Backup & Infraestrutura**
+📍 **Brasília, Brasil** | 💾 **Analista de Dados e Business Intelligence**
 
 ---
 
