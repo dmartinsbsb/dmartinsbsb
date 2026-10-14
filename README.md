@@ -8,7 +8,7 @@
 
 ### 🚀 Sobre Mim
 
-Sou apaixonado por dados. Atualmente, estou focado em me especializar como **Analista de Dados**, aprofundando meus conhecimentos em rotinas de proteção de dados, automação e recuperação de desastres.
+Sou apaixonado por dados. Atualmente, estou focado em me especializar como **Analista de Dados**, aprofundando meus conhecimentos em rotinas de Limpeza, tratamento, manipulação e visualização de dados.
 
 ---
 
